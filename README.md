@@ -60,7 +60,6 @@ I enjoy learning new technologies, automating workflows, and developing practica
 
 - 📧 Email: thisarawickramsinghe@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/thisara-wickramasinghe](https://www.linkedin.com/in/thisara-wickramasinghe)  
-- 🌐 Portfolio (optional): [your-portfolio-link.com]
 
 ---
 
@@ -68,12 +67,6 @@ I enjoy learning new technologies, automating workflows, and developing practica
 
 - Python Programming – University of Moratuwa
 - Web Development – University of Moratuwa
-
----
-
-## 📃 License
-
-This profile or repository content is shared under the MIT License — feel free to use and improve upon it!
 
 ---
 
