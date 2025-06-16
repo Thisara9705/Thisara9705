@@ -1,3 +1,7 @@
+
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/5c80d4ea-7cf2-4a66-a241-7ec06fb8b865)
+
+
 # 👋 Hi, I'm Thisara Wickramasinghe
 
 🎓 Associate Software Engineer | 💻 Full-Stack Web Developer  
